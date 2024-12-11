@@ -5,8 +5,8 @@
 
  The main code：./Methylation_Running
 （1）-（14）：Please read the code in order
-（Reply1-*）：Response after the first round of peer review
-（Reply2-*）：Response after the second round of peer review
+（Reply1-）：Additional analyses for the first round of peer review
+（Reply2-）：Additional analyses for the second round of peer review
 
 
 Result of 175 modules: ./Methylation_Running/Module175
