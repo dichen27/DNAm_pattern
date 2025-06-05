@@ -26,7 +26,8 @@ Catalogue of the IMAGEN
 *Calculate the WGCNA parameter for DNAm at age 14, i.e., the power.
 
 (2-2)Power_age14.R
-# Calculate the WGCNA parameter for DNAm at age 19, i.e., the power.
+
+*Calculate the WGCNA parameter for DNAm at age 19, i.e., the power.
 
 (3)WVCNA_Consensus.R
 
@@ -65,7 +66,8 @@ Catalogue of the IMAGEN
 *Prepare the MRI data for the CCA analyses
 
 (10)Run_CCA_cluster10.R
-# Run the CCA analyses of 10 brain-related clusters
+
+*Run the CCA analyses of 10 brain-related clusters
 
 (10-2)MRI_age19vsage14.m
 
@@ -142,6 +144,7 @@ Catalogue of the IMAGEN
 *Plot genomic location of the 18 DNAm clusters.
 
 ###########################################################################################
+
 Catalogue of the ADNI
 
 (1)ADNI_clean_data.R
@@ -161,6 +164,7 @@ Catalogue of the ADNI
 *Calculation for the Demographic Characteristics of ADNI.
 
 ###########################################################################################
+
 Catalogue of the PPMI
 
 (1)PPMI_mapping_cluster18_Mantel_test.R
