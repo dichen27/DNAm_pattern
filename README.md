@@ -39,7 +39,7 @@ Annotation: Calculate the WGCNA parameter for DNAm at age 19, i.e., the power.
 
 (3)WVCNA_Consensus.R
 
-Annotation: WVCNA and Consensus network analysis
+Annotation: Consensus network analysis
 
 (4)age19-age14.m
 
