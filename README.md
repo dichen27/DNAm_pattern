@@ -15,11 +15,12 @@ Result of 18 Clusters: ./Methylation_Running/Cluster18
 DNAm 18 Cluster pattern should be reordered as: 4,1,13,12,6,11,18,8,5,2,14,3,15,10,9,7,16,17
 
 ###########################################################################################
+
 Catalogue of the IMAGEN 
 
 (1)Methylation_regress.m
 
-*The DNAm data were regressed out from the covariates for WVCNA analysis.
+Annotation: The DNAm data were regressed out from the covariates for WVCNA analysis.
 
 (2-1)Power_age14.R
 
